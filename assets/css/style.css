@@ -1,0 +1,28 @@
+body{
+	background-color: #EEEEEE;
+}
+.title-pokedex{
+	text-align: center;
+	color: #EA5454;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.name-pokemon{
+	border: 1px solid #FAB0B0;
+}
+.name-pokemon:hover{
+	background-color: #CCD2FF;
+}
+.title-pokemon{
+	text-align: center;
+	text-transform: uppercase;
+	color: #2D2D2D;
+}
+.modalito{
+	background-color: rgba(46, 204, 113, 0.9);
+	width: 50%;
+	height: 50%;
+	position: fixed;
+	top: 28%;
+	left: 26%;
+}
